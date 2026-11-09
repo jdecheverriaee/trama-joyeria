@@ -48,3 +48,8 @@ main{max-width:1240px;margin:0 auto;padding:0 clamp(16px,4vw,48px)}
 .pie-wa{font-weight:500;font-size:20px!important}
 .fin{margin:28px 0 0;color:var(--cel);font-size:13px;letter-spacing:.04em}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.media{scroll-behavior:auto}}
+.links{display:flex;align-items:center;gap:clamp(10px,2.5vw,22px)}
+.lk{text-decoration:none;font-weight:500;font-size:14px;color:var(--mar)}
+.lk:hover{text-decoration:underline}
+#collares{padding-top:8px}
+.desc{margin:-4px 0 0;font-size:13px;line-height:1.45}
