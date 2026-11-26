@@ -53,3 +53,7 @@ main{max-width:1240px;margin:0 auto;padding:0 clamp(16px,4vw,48px)}
 .lk:hover{text-decoration:underline}
 #collares{padding-top:8px}
 .desc{margin:-4px 0 0;font-size:13px;line-height:1.45}
+@media (max-width:520px){.bar .lk{font-size:13px}.links{gap:10px}.wa-top{padding:8px 12px}}
+#pulseras{padding-top:8px}
+@media (max-width:420px){.brand img{height:24px}.links{gap:9px}.bar .lk{font-size:12.5px}.wa-top{font-size:12.5px;padding:7px 11px}}
+@media (max-width:350px){.brand img{height:20px}.brand{margin-right:6px}.links{gap:7px}.bar .lk{font-size:11.5px}.wa-top{padding:6px 9px}}
